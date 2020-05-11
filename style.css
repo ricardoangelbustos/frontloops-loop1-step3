@@ -88,6 +88,9 @@ body{
     }
 }
 @media (max-width: 745px){
+    .container{
+        width: 60%;
+    }
     .bicycle img{
         width: 100%;
         position: relative;
@@ -136,6 +139,7 @@ body{
 }
 @media (max-width: 426px){
     .container{
+        width: 70%;
         height: 250px;
     }
     .padding{
