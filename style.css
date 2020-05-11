@@ -31,6 +31,10 @@ body{
     padding: 5px;
     border-radius: 30px;
     border: 1px solid grey;
+    transition: 500ms;
+}
+.superior img:hover{
+    cursor: pointer;
 }
 .text{
     width: 100%;
